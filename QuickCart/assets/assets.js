@@ -278,7 +278,7 @@ export const productsDummyData = [
 
 export const userDummyData = {
   "_id": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-  "name": "GreatStack",
+  "name": "DevWorlds",
   "email": "admin@example.com",
   "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18ycnlnUnFiUDBYT2dEZ2h1ZmRXcGlpdWV5OXoiLCJyaWQiOiJ1c2VyXzJzWkZIUzFVSUl5c0p5RFZ6Q3BRaFVoVElodyJ9",
   "cartItems": {
@@ -318,10 +318,10 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "DevWorlds",
       "phoneNumber": "0123456789",
       "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
+      "area": "Main Road , Ranchi",
       "city": "City",
       "state": "State",
       "__v": 0
@@ -357,10 +357,10 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "DevWorlds",
       "phoneNumber": "0123456789",
       "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
+      "area": "Main Road , Ranchi",
       "city": "City",
       "state": "State",
       "__v": 0
@@ -399,10 +399,10 @@ export const orderDummyData = [
     "address": {
       "_id": "67a1e4233f34a77b6dde9055",
       "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-      "fullName": "GreatStack",
+      "fullName": "DevWorlds",
       "phoneNumber": "0123456789",
       "pincode": 654321,
-      "area": "Main Road , 123 Street, G Block",
+      "area": "Main Road , Ranchi",
       "city": "City",
       "state": "State",
       "__v": 0
@@ -417,10 +417,10 @@ export const addressDummyData = [
   {
     "_id": "67a1e4233f34a77b6dde9055",
     "userId": "user_2sZFHS1UIIysJyDVzCpQhUhTIhw",
-    "fullName": "GreatStack",
+    "fullName": "DevWorlds",
     "phoneNumber": "0123456789",
     "pincode": 654321,
-    "area": "Main Road , 123 Street, G Block",
+    "area": "Main Road , Ranchi",
     "city": "City",
     "state": "State",
     "__v": 0
